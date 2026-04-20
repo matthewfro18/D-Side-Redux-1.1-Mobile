@@ -64,6 +64,11 @@ jobs:
           haxelib run lime config JAVA_HOME $JAVA_HOME_17_arm64
           haxelib run lime config ANDROID_SETUP true
 
+      - name: Install HashLink
+        run: |
+          haxelib install hashlink
+          haxelib run hashlink setup
+
       - name: Compile
         run: haxelib run lime build ${{ inputs.buildArgs }}
 
