@@ -24,6 +24,7 @@ haxelib install hxdiscord_rpc 1.2.4
 haxelib install hxvlc 2.2.6
 haxelib install json5hx 1.0.2
 haxelib install moonchart
+haxelib install json2object
 haxelib git flixel-animate https://github.com/MaybeMaru/flixel-animate.git
 haxelib git extension-androidtools https://github.com/LimeExtensions/extension-androidtools.git
 haxelib git hscript-iris https://github.com/pisayesiwsi/hscript-iris dev
