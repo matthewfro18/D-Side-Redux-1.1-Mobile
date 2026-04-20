@@ -43,9 +43,8 @@
             },
             {
                 "name": "hxcpp",
-                "type": "git",
-                "url": "https://github.com/FunkinCrew/hxcpp",
-                "ref": "bfe01edc20cdc54fe7f54f1f2124b8959646144c"
+                "type": "haxelib",
+                "version": "4.3.2"
             },
             {
                 "name": "hxvlc",
