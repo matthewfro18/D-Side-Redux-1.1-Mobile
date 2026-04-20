@@ -68,10 +68,8 @@
     },
     {
       "name": "hxcpp",
-      "type": "git",
-      "dir": null,
-      "ref": "bfe01edc20cdc54fe7f54f1f2124b8959646144c",
-      "url": "https://github.com/FunkinCrew/hxcpp"
+      "type": "haxelib",
+      "version": null
     },
     {
       "name": "hxcpp-debug-server",
@@ -97,7 +95,7 @@
       "name": "lime",
       "type": "git",
       "dir": null,
-      "ref": "8d5555df83e208c0bab3877ed89cff6cf8906227",
+      "ref": "master",
       "url": "https://github.com/FunkinCrew/lime"
     },
     {
