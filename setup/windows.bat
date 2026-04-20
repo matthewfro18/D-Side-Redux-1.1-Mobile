@@ -20,6 +20,7 @@ haxelib install hxdiscord_rpc 1.2.4
 haxelib install hxvlc 2.2.6
 haxelib install json5hx 1.0.2
 haxelib install moonchart
+haxelib git flixel-animate https://github.com/MaybeMaru/flixel-animate.git
 haxelib git hscript-iris https://github.com/pisayesiwsi/hscript-iris dev
 haxelib git haxeui-flixel https://github.com/haxeui/haxeui-flixel 100f2c96beab619cfe72c567a058c41c71e3e998
 haxelib git flxanimate https://github.com/Dot-Stuff/flxanimate 768740a56b26aa0c072720e0d1236b94afe68e3e
