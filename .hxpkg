@@ -55,7 +55,7 @@
                 "name": "lime",
                 "type": "git",
                 "url": "https://github.com/FunkinCrew/lime",
-                "ref": "8d5555df83e208c0bab3877ed89cff6cf8906227"
+                "ref": "master"
             },
             {
                 "name": "openfl",
