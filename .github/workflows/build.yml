@@ -67,7 +67,6 @@ jobs:
       - name: Install HashLink
         run: |
           haxelib install hashlink
-          haxelib run hashlink setup
 
       - name: Compile
         run: haxelib run lime build ${{ inputs.buildArgs }}
